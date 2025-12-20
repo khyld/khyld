@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I am currently working in Microsoft as a Solution Engineer
+
+I am currently learning things to know as a Developer so spending time learning Github, Python etc. 
+
+I am not currently looking for help just wanted to test this functionality :-)
+
+
+
 <!--
 **khyld/khyld** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
