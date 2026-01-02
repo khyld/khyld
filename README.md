@@ -8,7 +8,10 @@ I am currently learning things to know as a Developer so spending time learning 
 
 I am not currently looking for help just wanted to test this functionality :-)
 
-**Is this text BOLD**
+*This text is Italic*
+**This text is BOLD**
+
+
 
 
 <!--
