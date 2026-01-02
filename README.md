@@ -1,3 +1,5 @@
+# Hi there!
+
 ## Hi there 👋
 
 I am currently working in Microsoft as a Solution Engineer
@@ -6,7 +8,7 @@ I am currently learning things to know as a Developer so spending time learning 
 
 I am not currently looking for help just wanted to test this functionality :-)
 
-* Is this text BOLD *
+** Is this text BOLD **
 
 
 <!--
